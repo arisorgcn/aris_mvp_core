@@ -23,7 +23,7 @@
 
 import 'package:flutter/material.dart';
 
-import '../../aris_mvp_core.dart';
+import 'abstract_page_presenter.dart';
 import 'base_state.dart';
 
 ///

@@ -21,10 +21,10 @@
 // SOFTWARE.
 //
 
-import 'package:aris_mvp_core/src/base/base_state.dart';
 import 'package:flutter/material.dart';
 
-import 'file:///D:/ws/flutter/aris_mvp_core/lib/src/interfaces/i_presenter.dart';
+import './base_state.dart';
+import '../interfaces/i_presenter.dart';
 
 ///
 /// Base Presenter

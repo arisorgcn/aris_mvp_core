@@ -21,9 +21,8 @@
 // SOFTWARE.
 //
 
-import 'package:aris_mvp_core/src/base/base_state.dart';
-
-import 'file:///D:/ws/flutter/aris_mvp_core/lib/src/interfaces/i_life_cycle.dart';
+import '../base/base_state.dart';
+import 'i_life_cycle.dart';
 
 /// The base interface for a presenter (all presenter
 /// interfaces should extend this).

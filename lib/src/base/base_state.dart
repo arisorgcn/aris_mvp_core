@@ -21,10 +21,10 @@
 // SOFTWARE.
 //
 
-import 'package:aris_mvp_core/src/interfaces/i_view.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
+import '../interfaces/i_view.dart';
 import 'base_presenter.dart';
 
 ///
