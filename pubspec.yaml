@@ -1,0 +1,19 @@
+name: aris_mvp_core
+description: An MVP (model/view/presenter) framework for applications written in dart.
+  This package gives specific support to the flutter framework.
+version: 1.0.0
+homepage: https://github.com/arisorgcn/aris_mvp_core.git
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
